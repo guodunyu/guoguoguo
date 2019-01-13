@@ -1,0 +1,11 @@
+test001:
+  test001:
+    username: "王宝"
+    password: "45555多多5"
+    assert: "用户名和密码不匹配"
+    num : "001"
+  test002:
+    username: "果果"
+    password: "12345678"
+    assert: "用户名和密码不匹配"
+    num : "002"
